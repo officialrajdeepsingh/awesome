@@ -410,6 +410,7 @@
 - [Preact](https://github.com/preactjs/awesome-preact#readme) - App framework.
 - [Progressive Enhancement](https://github.com/jbmoelker/progressive-enhancement-resources#readme)
 - [Next.js](https://github.com/unicodeveloper/awesome-nextjs#readme) - Framework for server-rendered React apps.
+	- [Next.js](https://github.com/officialrajdeepsingh/awesome-nextjs): List of NPM libraries that helps to build small and large-scale applications with next.js.
 - [lit](https://github.com/web-padawan/awesome-lit#readme) - Library for building web components with a declarative template system.
 - [JAMstack](https://github.com/automata/awesome-jamstack#readme) - Modern web development architecture based on client-side JavaScript, reusable APIs, and prebuilt markup.
 - [WordPress-Gatsby](https://github.com/henrikwirth/awesome-wordpress-gatsby#readme) - Web development technology stack with WordPress as a back end and Gatsby as a front end.
